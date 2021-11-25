@@ -1,0 +1,63 @@
+.auth-left {
+  background-image: linear-gradient(
+    90deg,
+    #b08ead 0%,
+    #4b3049 64%,
+    #b08ead 100%
+  );
+  background-size: 200% auto;
+  text-align: center;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 40px;
+}
+
+.auth-left-content {
+  color: #fff;
+}
+
+.auth-left-content h3 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 32px;
+}
+
+.auth-left-content p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.auth-left-btn button {
+  padding: 14px 24px;
+  background: transparent;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  color: #fff;
+  transition: 0.4s ease-out;
+}
+
+.auth-left-btn button:hover {
+  background: #fff;
+  color: #ff003c;
+}
+
+.auth-right {
+  padding: 40px 30px;
+}
+
+.auth-right h3 {
+  font-size: 28px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.auth-right .auth-btn {
+  margin-top: 20px;
+  border: 1px solid #b08ead;
+  transition: 0.4s ease-in-out;
+  padding: 8px 0;
+}
+
+.auth-right .auth-btn:hover {
+  background: #4b3049;
+  color: #fff;
+}

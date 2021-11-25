@@ -1,0 +1,18 @@
+#banner {
+  padding: 90px 0;
+  max-height: 600px;
+  background: #f9f8f6;
+}
+
+.banner-text h1 {
+  font-size: 76px;
+  font-weight: 700;
+  color: #0b1c39;
+}
+
+.banner-text p {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  margin-top: 40px;
+  margin-bottom: 42px;
+}

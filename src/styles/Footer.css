@@ -1,0 +1,12 @@
+footer {
+  background: #fafafa;
+}
+
+.footer-brand img {
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.footer-brand p {
+  font-weight: 500;
+}

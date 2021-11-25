@@ -1,0 +1,25 @@
+.watch .watch-img img {
+  height: 350px;
+  object-fit: cover;
+}
+
+.watch .addToCartBtn button {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  padding: 14px 0;
+  font-family: "Josefin Sans", sans-serif;
+  background: #ff2020;
+  color: #ffffff;
+}
+
+.watch .watch-details {
+  margin-top: 16px;
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+  color: #444444;
+}
+
+.watch .watch-details p {
+  font-size: 18px;
+}

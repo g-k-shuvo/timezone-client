@@ -1,0 +1,40 @@
+header {
+  background: transparent;
+  font-family: "Josefin Sans", sans-serif;
+  border-bottom: 1px solid #000;
+}
+
+header .navbar-brand img {
+  width: 150px;
+}
+
+.navbar-nav a {
+  font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  transition: 0.4s ease-in-out;
+  color: #141517;
+  margin: 0 16px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link.active:hover {
+  color: #ff003c;
+}
+
+.header-btn {
+  transition: 0.4s ease-in-out;
+  padding: 6px 12px;
+  border: none;
+  color: #141517;
+  outline: none;
+  font-size: 16px;
+  font-weight: 600;
+  background: transparent;
+}
+
+.header-btn:hover {
+  color: #ff003c;
+}

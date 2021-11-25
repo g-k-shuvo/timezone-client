@@ -1,0 +1,9 @@
+.dashboard-container {
+  background: #f2f2f2;
+  padding: 20px;
+}
+
+.nav-pills .nav-link {
+  border-radius: 0;
+  cursor: pointer;
+}

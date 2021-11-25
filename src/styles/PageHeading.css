@@ -1,0 +1,14 @@
+.page-heading {
+  padding: 80px 0;
+  text-align: center;
+  background: url("../images//heading-background.webp");
+  background-size: cover;
+  text-align: center;
+}
+
+.page-heading h1 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #0b1c39;
+  font-family: "Josefin Sans", sans-serif;
+}

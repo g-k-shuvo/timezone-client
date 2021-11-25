@@ -1,0 +1,32 @@
+.review-content {
+  text-align: center;
+  background: url("../images/heading-background.webp");
+  padding: 50px 0;
+  color: #444444;
+}
+
+.review-content .review-image {
+  margin-bottom: 30px;
+}
+
+.review-content .review-image img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #444444;
+}
+
+.review-content .review-text h4 {
+  text-transform: uppercase;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.review-content .review-text p {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.carousel-indicators [data-bs-target] {
+  color: #444444;
+}
