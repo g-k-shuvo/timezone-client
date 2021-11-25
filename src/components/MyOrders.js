@@ -26,6 +26,7 @@ export default function MyOrders() {
 
                 <td>
                   <button
+                    className="tzActionBtn tzEdit"
                     onClick={() => {
                       removeOrder(order._id);
                     }}
